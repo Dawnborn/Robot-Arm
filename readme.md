@@ -1,7 +1,8 @@
 # Probot_demo
 ---
 Control the robot arm to iterately reach the vertices of a 20*20 cm cube.
-[8point.webm](https://user-images.githubusercontent.com/65355072/180093363-da0770ef-05f4-4a6c-a8b3-4443dd1ccb7d.webm)
+
+Video: https://user-images.githubusercontent.com/65355072/180093363-da0770ef-05f4-4a6c-a8b3-4443dd1ccb7d.webm
 ## Environment
 Ubuntu 18.04 LTS
 ROS Melodic
